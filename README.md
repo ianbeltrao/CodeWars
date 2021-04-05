@@ -1,7 +1,6 @@
 These are my solutions to [codewars](http://codewars.com) [code katas](https://en.wikipedia.org/wiki/Kata_(programming)). My profile in codewars can be found [here](https://www.codewars.com/users/ianbeltrao). Languages used here are (at the moment):
 
 * Python (mainly)
-* JavaScript (gradually)
 
 **IMPORTANT NOTE:**
 
